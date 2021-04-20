@@ -1,7 +1,17 @@
+body {
+	backgroundcolor-#BAC19A;
+}
+h1 {
+	color:373B43;
+	font-family: 'Hind Siliguri'
+}	
+p, li {
+font-family: Hind Siliguri, sans-serif;
+font-size: 14px;
+}
 colors:
 BAC19A
 F0F5FA
 373B43
 CABCB9
 D4DFC7
-font: Arapey
